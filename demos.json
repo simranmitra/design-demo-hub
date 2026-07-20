@@ -6,33 +6,15 @@
     "status": "In Review",
     "date": "2026-07-20",
     "owner": "Simran Mitra",
-    "notes": "Short context for whoever opens this"
+    "notes": "New Mobile App Prototype Concept Only"
   },
   {
-    "name": "M1 Check In Flow (Mobile)",
+    "name": "New App Builder 20/07",
     "module": "M1 App",
-    "link": "demos/m1-checkin-flow.html",
+    "link": "demos/new-app-builder.html",
     "status": "In Review",
-    "date": "2026-07-18",
+    "date": "2026-07-20",
     "owner": "Simran Mitra",
-    "notes": "Single column conversion of web check in flow. Uses Pathway button and card tokens."
-  },
-  {
-    "name": "People Profile Page (Admin View)",
-    "module": "People Module",
-    "link": "demos/people-profile-admin.html",
-    "status": "Needs Feedback",
-    "date": "2026-07-15",
-    "owner": "Simran Mitra",
-    "notes": "Admin facing profile layout with new report tab. Waiting on dev feasibility check."
-  },
-  {
-    "name": "M1 Header Navigation Update",
-    "module": "M1 App",
-    "link": "demos/m1-header-nav.html",
-    "status": "Approved",
-    "date": "2026-07-10",
-    "owner": "Simran Mitra",
-    "notes": "Consistent header nav pattern applied across M1 screens per Pathway spec."
+    "notes": "New App Builder Prototype Concept Only"
   }
 ]
