@@ -1,12 +1,13 @@
-{
-  "name": "New Mobile App 20/07",
-  "module": "M1 App",
-  "link": "file:///Users/simranmitraministrybrands/Documents/Prototypes/New%20Mobile%20App%2020:07.html",
-  "status": "In Review",
-  "date": "2026-07-20",
-  "owner": "Simran Mitra",
-  "notes": "Short context for whoever opens this"
-}[
+[
+  {
+    "name": "New Mobile App 20/07",
+    "module": "M1 App",
+    "link": "file:///Users/simranmitraministrybrands/Documents/Prototypes/New%20Mobile%20App%202007.html",
+    "status": "In Review",
+    "date": "2026-07-20",
+    "owner": "Simran Mitra",
+    "notes": "Short context for whoever opens this"
+  },
   {
     "name": "M1 Check In Flow (Mobile)",
     "module": "M1 App",
