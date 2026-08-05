@@ -1,5 +1,14 @@
 [
   {
+    "name": "New Mobile App 05/08",
+    "module": "M1 App",
+    "link": "demos/new-mobile-app-0508.html",
+    "status": "In Review",
+    "date": "2026-08-05",
+    "owner": "Simran Mitra",
+    "notes": "New Mobile App Prototype Concept Only"
+  },
+  {
     "name": "New Mobile App 20/07",
     "module": "M1 App",
     "link": "demos/new-mobile-app-2007.html",
